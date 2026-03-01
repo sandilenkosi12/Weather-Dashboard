@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/cbeb83a0-311d-461c-bd68-e277ef340979)# Weather-Dashboard
+
 # ☁️ Weather Dashboard
 
 
@@ -15,7 +15,7 @@ A beautiful, responsive weather dashboard built with vanilla JavaScript and the 
 - Weather-appropriate tips
 - Fully responsive design
 - Beautiful weather icons
-
+live demo  https://sandilenkosi12.github.io/Weather-Dashboard/
 ## 🛠️ Built With
 - HTML5
 - CSS3
